@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Albums For A Year: towards introspecive data science"
+title: "Albums For A Year: towards introspective data science"
 categories:
   - Home
 tags:
