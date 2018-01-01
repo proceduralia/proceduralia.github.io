@@ -15,6 +15,8 @@ Luigi Pirandello was an outstanding author, whose writings shine in the history 
 Apart from a considerable number of plays and novels, he wrote also many _novelle_, (not too) short stories
 gathered in the collection _Novelle per un anno_ ("Novelle for a year").
 
+{% include bokeh_includes.html %}
+
 _Novelle per un anno_ is a masterpiece: some 250 stories written in more than 50 years 
 compose a wonderful exploration of human nature through umorism, sadness and deep thoughts.
 
@@ -295,5 +297,3 @@ ones indirectly suggested by the automated playlists, simply because
 this distinction slowly disappeared, as my degree of confidence with the whole
 system became higher and higher. _This_ seems to be
 the essence of _exo-thought_ and _intelligence augmentation_.
-
-{% include bokeh_includes.html %}
