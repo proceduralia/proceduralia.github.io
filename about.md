@@ -6,7 +6,7 @@ sidebar_link: true
 
 <p class="message">
 Hi there! I am Pierluca D'Oro.
-Currently, I am currently a research intern at [NNAISENSE](https://nnaisense.com), working on reinforcement learning and computer vision.
+Currently, I am currently a research intern at [NNAISENSE]( https://nnaisense.com ), working on reinforcement learning and computer vision.
 
 I did my MSc at Politecnico di Milano under the supervision of Prof. Marcello Restelli, working on [going beyond maximum likelihood model estimation in model-based policy search](https://arxiv.org/abs/1909.04115).
 
