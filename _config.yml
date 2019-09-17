@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Myself When I Am Real
-tagline:          'Proceduralia'
+title:            Pierluca D'Oro
+tagline:          '.'
 description:      ''
 url:              https://proceduralia.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
