@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Pierluca D'Oro
-tagline:          '.'
-description:      ''
+tagline:          'Reinforcement Learning Researcher'
+description:      'Reinforcement Learning Researcher'
 url:              https://proceduralia.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -27,8 +27,8 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-sidebar_home_link:  true
-# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+sidebar_home_link:  false
+sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.

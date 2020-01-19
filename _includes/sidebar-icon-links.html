@@ -13,7 +13,7 @@
       {% include svg/twitter.svg %}
    </a>
 
-  
+
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
   {% endcomment %}
@@ -33,15 +33,6 @@
        title="Tags" aria-label="Tags"
        href="{{ site.baseurl }}{{ tags_page.url }}">
       {% include svg/tags.svg %}
-    </a>
-  {% endif %}
-
-  {% if search_page %}
-    <a id="search-link"
-       class="icon{% if page.url == '/search' %} active{% endif %}"
-       title="Search" aria-label="Search"
-       href="{{ site.baseurl }}{{ search_page.url }}">
-      {% include svg/search.svg %}
     </a>
   {% endif %}
 
