@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Blog
-sidebar_link: True
-sidebar_sort_order: 2
 ---
 <h1>Latest Posts</h1>
 
