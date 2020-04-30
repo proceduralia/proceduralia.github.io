@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Pierluca D'Oro
-tagline:          'Reinforcement Learning Researcher'
-description:      'Reinforcement Learning Researcher'
+title:            RL & other stories
+tagline:          "Pierluca D'Oro"
+description:      "Pierluca D'Oro"
 url:              https://proceduralia.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
