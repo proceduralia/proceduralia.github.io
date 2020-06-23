@@ -8,6 +8,7 @@ tags:
   - machine learning
   - reinforcement learning
   - model-based RL
+hide: false
 ---
 ![pirandello](/assets/images/pgt.png){:class="img-responsive"}
 You recognized it. This is the super-handy expression for the policy gradient derived [more than 20 years ago](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation) by Richard Sutton and colleagues.

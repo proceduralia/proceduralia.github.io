@@ -4,7 +4,8 @@ title: Blog
 ---
 {% include post-tags.html %}
 
-{% for post in site.posts %}
+{% assign posts = site.posts | where:"hide", "false" %}
+{% for post in posts %}
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <div class="post-tags">
     {% for tag in post.tags %}

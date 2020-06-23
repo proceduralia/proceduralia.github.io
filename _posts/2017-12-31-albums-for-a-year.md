@@ -9,13 +9,14 @@ tags:
   - spotify
   - music
   - literature
+hide: false
 ---
 ![pirandello](/assets/images/pirandello2.png){:class="img-responsive"}
 Luigi Pirandello was an outstanding author, whose writings shine in the history of European literature.
 Apart from a considerable number of plays and novels, he wrote also many _novelle_, (not too) short stories
 gathered in the collection _Novelle per un anno_ ("Novelle for a year").
 
-_Novelle per un anno_ is a masterpiece: some 250 stories written in more than 50 years 
+_Novelle per un anno_ is a masterpiece: some 250 stories written in more than 50 years
 compose a wonderful exploration of human nature through umorism, sadness and deep thoughts.
 
 Pirandello's original idea was to write a short story for each day of the year,
@@ -50,7 +51,7 @@ In the case of reading, for example, we are in general delegating part of our et
 the writer in the written words,
 or part of our sensorial processing to the descriptions contained in the text.
 
-One of the best ways to become familiar with a tool, or with an art form, 
+One of the best ways to become familiar with a tool, or with an art form,
 is to experience it as often as you can.
 From this follows the outstanding augmentation power that Pirandello's _Novelle per un anno_
 can have on its reader.
@@ -61,17 +62,17 @@ We are all familiar with _exo-thought_, as it happens in our daily life.
 
 For instance, a rather modern way to experiment it comes from the use of
 our favorite user interfaces.
-This concept is amazingly explained in these outstanding articles about 
+This concept is amazingly explained in these outstanding articles about
 [thought as a technology](http://cognitivemedium.com/tat/){:target="_blank"} and
 [intelligence augmentation using artificial intelligence](https://distill.pub/2017/aia/){:target="_blank"}.
-To align my terminology with the one used by Michael Nielsen, 
+To align my terminology with the one used by Michael Nielsen,
 an _exo-thought_ can be said to be the use of a _cognitive technology_, that is
 
 > an external artifact, designed by humans, which can be internalized, and used as a substrate for cognition.
 
-In other words, 
+In other words,
 once we become familiar with a new _cognitive technology_, we unlock
-the power of a wonderful symbiosis between our own thinking and an external process, 
+the power of a wonderful symbiosis between our own thinking and an external process,
 and human intelligence augmentation kicks in.
 
 Astonished by this kind of symbiosis, I wanted to replicate the experience I had
@@ -116,7 +117,7 @@ We likewise navigate, discover and meditate on novel information through our new
 using both our art-based and algorithm-based _exo-thought_, but we
 can also perform a new kind of operation, powered by software.
 We can easily collect, display and analyze our own data.
-To some extent, we can perform __introspection__, 
+To some extent, we can perform __introspection__,
 the self analysis of a thinking process.
 In doing so, we exploit the wonderful toolbox offered by data science.
 
@@ -129,7 +130,7 @@ when I started listening to it.
 A first way to perform introspection is to look at the frequencies
 and patterns in my musical routine.
 Spotify automatically saves the time a song is added to a playlist;
-in other words, I can retrieve the time 
+in other words, I can retrieve the time
 I started listening to each one of the albums.
 
 {% include graphs/frequency_scatter.html %}
@@ -165,7 +166,7 @@ of the album artist.
 
 The total set of genres has a size of 212, but each album commonly has 4-5 genres.
 In other words, this is a very sparse representation.
-For example, among the 212 elements of the vector representing 
+For example, among the 212 elements of the vector representing
 _Recomposed By Max Richter: Vivaldi, The Four Seasons_, only
 the spots associated to _compositional ambient_, _focus_, _minimal_,
 _modern classical_ and _soundtrack_ are set to one.
@@ -174,7 +175,7 @@ _modern classical_ and _soundtrack_ are set to one.
 ---
 
 We can't directly visualize all of this data:
-the only visual way to get some insights is to reduce its 
+the only visual way to get some insights is to reduce its
 dimensionality.
 
 We can, for instance, represent our data as an undirected graph,
@@ -190,7 +191,7 @@ You can click on a node to highlight its neighbours.
 {% include graphs/albums_graph.html %}
 
 Although no explicit clustering technique is used, some
-groups are clearly visible. 
+groups are clearly visible.
 The one on the right, for example, is mainly formed of
 renditions of classical music works from composers
 such as Bach, Chopin and Brahms.
@@ -255,7 +256,7 @@ In this way, we obtain 12-dimensional description of the albums from the playlis
 impossible to visualize as is.
 
 We can use a different method to perform dimensionality reduction, for example _t-sne_.
-Guided by the _Distill_ article on 
+Guided by the _Distill_ article on
 [how to use t-SNE effectively](https://distill.pub/2016/misread-tsne/){:target="_blank"}, I searched for
 the better _perplexity_ to visualize the data.
 
@@ -266,7 +267,7 @@ The result is quite different from the previous ones. Looking solely at the audi
 features of an album and forgetting about its declared genres, many musical styles
 become near in the visual representation. For example, the distinction between _classical_
 and _neoclassical_ almost
-disappears. Moreover, jazz albums can be found in the neighbourhood 
+disappears. Moreover, jazz albums can be found in the neighbourhood
 either of the rock or of the classical ones,
 depending on their type of musical contamination.
 
