@@ -41,5 +41,5 @@ He died by Roman hand during the siege of his hometown, in 212 B.C.: he was so f
 Whether these anecdotes are actually real facts, or they simply reflect the clumsy prejudice that fellow citizens had on the most brilliant mind of ancient history, is still an open question.
 
 <footer class="lang-options">
-    <em><a href="{{ site.baseurl }}/home/2020/06/15/archimede-ita.html">Leggi questo articolo in italiano.</a></em>
+    <em><a href="{{ site.baseurl }}/home/2020/06/23/archimede-ita.html">Leggi questo articolo in italiano.</a></em>
 </footer>

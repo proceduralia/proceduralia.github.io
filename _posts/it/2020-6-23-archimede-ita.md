@@ -39,5 +39,5 @@ Morì per mano romana durante l'assedio della sua città, nel 212 A.C.: era cos�
 E' ancora incerto se questi aneddoti siano in effetti realtà, o riflettano semplicemente il maldestro pregiudizio che i suoi concittadini avevano sulla mente più brillante della storia antica.
 
 <footer class="lang-options">
-    <em><a href="{{ site.baseurl }}/home/2020/06/15/archimede.html">Read this article in english.</a></em>
+    <em><a href="{{ site.baseurl }}/home/2020/06/23/archimede.html">Read this article in english.</a></em>
 </footer>
