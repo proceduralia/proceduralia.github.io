@@ -9,9 +9,8 @@ tags:
 hide: false
 ---
 ![pirandello](/assets/images/archimede.jpg){:class="img-responsive"}
-I was quietly working in the office in Lugano, when I was asked a fairly simple question.
-_"Where are you from?"_. Sounds easy, uh? It's less easy than it seems, when it is [Prof. Jürgen Schmidhuber](https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber) himself asking it.
-"I am from Sicily!", I proudly replied. _"Sicily? One of the greatest minds of all times was from Sicily!"_.
+I was quietly working in the office in Lugano, when I started a conversation with [Prof. Jürgen Schmidhuber](https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber).
+_"You are from Sicily, right?"_, he asked. "Yes, I am!", I proudly replied. _"One of the greatest minds of all times was from Sicily!"_.
 I wandered in my thoughts for many seconds over the dozens of great men and women that a little big island like Sicily hosted during its history.
 Then, before I could say a word, I was enlighted: __"Archimedes, of course!"__.
 
