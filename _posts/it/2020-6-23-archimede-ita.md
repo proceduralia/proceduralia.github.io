@@ -6,12 +6,11 @@ categories:
 hide: true
 ---
 ![pirandello](/assets/images/archimede.jpg){:class="img-responsive"}
-Lavoravo silenziosamente in ufficio a Lugano, quando mi è stata posta una, incredibilmente semplice, domanda.
-_"Da dove vieni?"_. Semplice, vero? Lo è meno di quanto sembri, quando è [Prof. Jürgen Schmidhuber](https://it.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber) a porla.
-"Sono siciliano!", ho risposto fieramente.
-_"Siciliano? Una delle più grandi menti della storia era siciliana!"_.
+Lavoravo silenziosamente in ufficio a Lugano, quando iniziai una conversazione con [Prof. Jürgen Schmidhuber](https://it.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber).
+_"Vieni dalla Sicilia, vero?"_, mi chiese. "Sì!", risposi fieramente.
+_"Una delle più grandi menti della storia era siciliana!"_.
 Ho vagato nei miei pensieri per diversi secondi, pensando alle dozzine di grandi uomini e donne che una piccola grande isola come la Sicilia ha ospitato nella sua storia.
-Poi, prima ancora che io potessi dir nulla, sono stato illuminato: __"Archimede, ovviamente!"__.
+Poi, prima ancora che io potessi dir nulla, fui illuminato: __"Archimede, ovviamente!"__.
 
 Archimede è un incredibile esempio di genio dell'antichità.
 Nella Siracusa del terzo secolo A.C., che Cicerone definiva _la più bella città greca dei tempi antichi_, diede vita a scoperte e invenzioni di inestimabile valore.
