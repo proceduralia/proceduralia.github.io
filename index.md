@@ -5,6 +5,7 @@ sidebar_link: False
 sidebar_sort_order: 1
 ---
 Ciao! My name is Pierluca D'Oro. I am a PhD student at [MILA](https://mila.quebec/en/), supervised by [Prof. Bacon](http://pierrelucbacon.com/) and [Prof. Bellemare](http://www.marcgbellemare.info/).
+To get in touch, write me an email at `<name>.<surnameWithNoApostrophe>@mila.quebec`.
 
 My research area is reinforcement learning. I am particularly interested in studying how the learning process of an agent can exploit knowledge about the process itself.
 
