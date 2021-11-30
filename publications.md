@@ -7,7 +7,7 @@ sidebar_sort_order: 1
 You can also find me on [Google Scholar](https://scholar.google.it/citations?user=AuVp7pkAAAAJ&hl=en).
 
 ## Conference and Journal Articles
-- **[Policy Optimization as Online Learning with Mediator Feedback](about:blank)**<br>
+- **[Policy Optimization as Online Learning with Mediator Feedback](https://arxiv.org/abs/2012.08225)**<br>
 Alberto Maria Metelli\*, Matteo Papini\*, Pierluca D'Oro, Marcello Restelli. <br>
 *Thirty-Fifth AAAI Conference on Artificial Intelligence*, 2021. <br>
 - **[How to Learn a Useful Critic? Model-based Action-Gradient-Estimator Policy Optimization](https://arxiv.org/abs/2004.14309)**<br>
@@ -24,6 +24,12 @@ Concetto Spampinato, Simone Palazzo, Pierluca D’Oro, Daniela Giordano, Mubarak
 *International Journal of Computer Vision*, 2019.
 
 ## Workshop Papers
+- **[Long-Term Credit Assignment via Model-based Temporal Shortcuts](https://sites.google.com/view/deep-rl-workshop-neurips2021)**<br>
+Michel Ma, Pierluca D'Oro, Yoshua Bengio, Pierre-Luc Bacon <br>
+*NeurIPS Deep Reinforcement Learning Workshop*, 2021.
+- **[Meta Dynamic Programming](https://sites.google.com/view/metacogneurips2021/papers)**<br>
+Pierluca D'Oro, Pierre-Luc Bacon <br>
+*NeurIPS Workshop on Metacognition in the Age of AI: Challenges and Opportunities*, 2021.
 - **[Real-time Classification from Short Event-Camera Streams using Input-filtering Neural ODEs](https://arxiv.org/abs/2004.03156)**<br>
 Giorgio Giannone, Asha Anoosheh, Alessio Quaglino, Pierluca D'Oro, Marco Gallieri, Jonathan Masci <br>
 *NeurIPS workshop on Interpretable Inductive Biases and Physically Structured Learning*, 2020.
