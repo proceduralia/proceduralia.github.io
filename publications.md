@@ -7,6 +7,9 @@ sidebar_sort_order: 1
 You can also find me on [Google Scholar](https://scholar.google.it/citations?user=AuVp7pkAAAAJ&hl=en).
 
 ## Conference and Journal Articles
+- **[The Primacy Bias in Deep Reinforcement Learning](https://arxiv.org/abs/2205.07802)**<br>
+Evgenii Nikishin\*, Max Schwarzer\*, Pierluca D'Oro\*, Pierre-Luc Bacon, Aaron Courville. <br>
+*International Conference on Machine Learning*, 2021. <br>
 - **[Policy Optimization as Online Learning with Mediator Feedback](https://arxiv.org/abs/2012.08225)**<br>
 Alberto Maria Metelli\*, Matteo Papini\*, Pierluca D'Oro, Marcello Restelli. <br>
 *Thirty-Fifth AAAI Conference on Artificial Intelligence*, 2021. <br>
