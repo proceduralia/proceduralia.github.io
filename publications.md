@@ -7,6 +7,9 @@ sidebar_sort_order: 1
 You can also find me on [Google Scholar](https://scholar.google.it/citations?user=AuVp7pkAAAAJ&hl=en).
 
 ## Conference and Journal Articles
+- **[Sample-Efficient Reinforcement Learning by Breaking the Replay Ratio Barrier](https://openreview.net/forum?id=OpC-9aBBVJe)**<br>
+Pierluca D'Oro\*, Max Schwarzer\*, Evgenii Nikishin, Pierre-Luc Bacon, Marc G. Bellemare, Aaron Courville. <br>
+*International Conference on Learning Representations* (oral presentation, notable top 5%), 2021. <br>
 - **[The Primacy Bias in Deep Reinforcement Learning](https://arxiv.org/abs/2205.07802)**<br>
 Evgenii Nikishin\*, Max Schwarzer\*, Pierluca D'Oro\*, Pierre-Luc Bacon, Aaron Courville. <br>
 *International Conference on Machine Learning*, 2021. <br>

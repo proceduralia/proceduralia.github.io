@@ -2,7 +2,7 @@
   {% if site.github.repo %}
     <a id="github-link"
        class="icon" title="Github Project" aria-label="Github Project"
-       href="{{ site.github.repo }}">
+       href="{{ site.github.repo }}" target="_blank">
       {% include svg/github.svg %}
     </a>
   {% endif %}
@@ -11,6 +11,18 @@
        class="icon" title="Twitter Account" aria-label="twitter"
        href="https://twitter.com/proceduralia" target="_blank">
       {% include svg/twitter.svg %}
+   </a>
+
+   <a id="scholar-link"
+       class="icon" title="Twitter Account" aria-label="scholar"
+       href="https://scholar.google.com/citations?user=AuVp7pkAAAAJ&hl=it" target="_blank">
+      {% include svg/scholar.svg %}
+   </a>
+
+   <a id="cv-link"
+       class="icon" title="Twitter Account" aria-label="cv"
+       href="https://drive.google.com/file/d/1Vi731OoNuvQY3aKYtHIB2qbt6xG-thMb/view?usp=share_link" target="_blank">
+      {% include svg/cv.svg %}
    </a>
 
 
@@ -26,15 +38,6 @@
       {% assign search_page = node %}
     {% endif %}
   {% endfor %}
-
-  {% if tags_page %}
-    <a id="tags-link"
-       class="icon{% if page.url == '/tags' %} active{% endif %}"
-       title="Tags" aria-label="Tags"
-       href="{{ site.baseurl }}{{ tags_page.url }}">
-      {% include svg/tags.svg %}
-    </a>
-  {% endif %}
 
   {% include custom-icon-links.html %}
 </nav>

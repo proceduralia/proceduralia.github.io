@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            RL & other stories
-tagline:          "Pierluca D'Oro"
-description:      "Pierluca D'Oro"
+title:            "Pierluca D'Oro"
+# tagline:          "Pierluca D'Oro"
+#description:      "Pierluca D'Oro"
 url:              https://proceduralia.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -27,7 +27,7 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-sidebar_home_link:  false
+sidebar_home_link:  true
 sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
