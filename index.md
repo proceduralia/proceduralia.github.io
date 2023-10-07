@@ -1,12 +1,10 @@
 ---
 layout: page
-# title: About me
 sidebar_link: false
 sidebar_sort_order: 1
 ---
-Ciao! My name is Pierluca D'Oro. I am a PhD student at [Mila](https://mila.quebec/en/), supervised by [Pierre-Luc Bacon](http://pierrelucbacon.com/) and [Marc G. Bellemare](http://www.marcgbellemare.info/) and a visiting researcher at Meta AI (FAIR).
-
-My research area is reinforcement learning. I am particularly interested in studying how an agent can intimately exploit knowledge about its own learning process, and in the interaction between RL algorithms and neural networks training.
+Ciao! My name is Pierluca D'Oro. I am a PhD student at [Mila](https://mila.quebec/en/), supervised by [Pierre-Luc Bacon](http://pierrelucbacon.com/) and [Marc G. Bellemare](http://www.marcgbellemare.info/) and a visiting researcher at FAIR at Meta.
+I work on the science of artificial intelligence agents.
 
 I obtained my MSc at [Politecnico di Milano](https://www.polimi.it/), working on model-based reinforcement learning under the supervision of [Marcello Restelli](https://restelli.faculty.polimi.it).
 I have also spent some time as an intern at [NNAISENSE](https://nnaisense.com/) in Lugano, mainly working with Wojciech Jaśkowski on model-based reinforcement learning.
