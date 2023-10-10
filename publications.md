@@ -35,7 +35,7 @@ You can also find me on [Google Scholar](https://scholar.google.it/citations?use
   <em>Conference on Neural Information Processing Systems</em>, 2023. <br>
   <details>
     <summary> <b> Behind the scenes </b> </summary>
-    <p> <i> Motivated by new discoveries about the empirical science of deep reinforcement learning, we started discussing about techniques for discovering other phenomena and advancing our understanding of neural network-based agents. After some attempts and after building an appropriate experimental framework, we came to the conclusion that the lens of the return landscape was a good one for our goal. Funnily enough, we found some new interesting phenomena right when we stopped searching for them. I learned a lot about how to do understanding-oriented science. </i> </p>
+    <p> <i> Motivated by new discoveries about the empirical science of deep reinforcement learning, we started discussing techniques for discovering other phenomena and advancing our understanding of neural network-based agents. After some attempts and after building an appropriate experimental framework, we came to the conclusion that the lens of the return landscape was a good one for our goal. Funnily enough, we found some new interesting phenomena right when we stopped searching for them. I learned a lot about how to do understanding-oriented science. </i> </p>
   </details>
 </div>
 
@@ -76,7 +76,7 @@ You can also find me on [Google Scholar](https://scholar.google.it/citations?use
     <em>Conference on Neural Information Processing Systems</em>, 2020. <br>
   <details>
     <summary> <b> Behind the scenes </b> </summary>
-    <p> <i> While living with a daily commute between the wonderful lake city of Como and Switzerland, I tried a bunch of mostly theoretical ideas during my time at NNAISENSE. We found out at some point with my host Wojciech that the ideas I had been thinking about for my master thesis were actually generalizable to actor-critic methods: it implied a simple theory-backed deerp reinforcement learning algorithm that yielded good results out-of-the-box. I have established in that occasion, synthesizing my previous experience with what I learned from Wojciech, the core of what would have been my research taste in subsequent years.   </i> </p>
+    <p> <i> While living with a daily commute between the wonderful lake city of Como and Switzerland, I tried a bunch of mostly theoretical ideas during my time at NNAISENSE. We found out at some point with my host Wojciech that the ideas I had been thinking about for my master thesis were actually generalizable to actor-critic methods: it implied a simple theory-backed deep reinforcement learning algorithm that yielded good results out-of-the-box. I have established in that occasion, synthesizing my previous experience with what I learned from Wojciech, the core of what would have been my research taste in subsequent years.   </i> </p>
   </details>
 </div>
 
@@ -96,7 +96,7 @@ You can also find me on [Google Scholar](https://scholar.google.it/citations?use
     <em>AAAI Conference on Artificial Intelligence</em>, 2020. <br>
   <details>
     <summary> <b> Behind the scenes </b> </summary>
-    <p> <i> At the beginning of my Master's research work, I really had to learn the hard way how to precisely formalize problems and think in math, sine I had realized my drawings of boxes on a whiteboard were not enough anymore to express my scientific self. We had the general goal in mind to learn a model of the dynamics that was tailored to its use in reinforcement learning. We ponderer about what that meant exactly, and got inspired by the ideas of Amir-massoud Farahmand on <a href="https://proceedings.mlr.press/v54/farahmand17a.html" target="_blank">decision-aware model learning</a>. I spent several months staring at a whiteboard and thinking about math for most of my time.
+    <p> <i> At the beginning of my Master's research work, I really had to learn the hard way how to precisely formalize problems and think in math, since I had realized my drawings of boxes on a whiteboard were not enough anymore to express my scientific self. We had in mind the general goal to learn a model of the dynamics that was tailored to its use in reinforcement learning. We ponderer about what that meant exactly, and got inspired by the ideas of Amir-massoud Farahmand on <a href="https://proceedings.mlr.press/v54/farahmand17a.html" target="_blank">decision-aware model learning</a>. I spent several months staring at a whiteboard and thinking about math for most of my time.
  </i> </p>
   </details>
 </div>
