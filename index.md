@@ -3,13 +3,11 @@ layout: page
 sidebar_link: false
 sidebar_sort_order: 1
 ---
-Ciao! My name is Pierluca D'Oro. I am a PhD student at [Mila](https://mila.quebec/en/), supervised by [Pierre-Luc Bacon](http://pierrelucbacon.com/) and [Marc G. Bellemare](http://www.marcgbellemare.info/) and a visiting researcher at FAIR at Meta.
-I work on the science of artificial intelligence agents.
+Ciao! My name is Pierluca D'Oro. I am a final-year PhD student at [Mila](https://mila.quebec/en/), supervised by [Pierre-Luc Bacon](http://pierrelucbacon.com/) and [Marc G. Bellemare](http://www.marcgbellemare.info/) and a visiting researcher at FAIR at Meta.
+I work on the science of AI agents. My current focus is on building sequential decision-making agents from Large Language Models.
 
-I obtained my MSc at [Politecnico di Milano](https://www.polimi.it/), working on model-based reinforcement learning under the supervision of [Marcello Restelli](https://restelli.faculty.polimi.it).
-I have also spent some time as an intern at [NNAISENSE](https://nnaisense.com/) in Lugano, mainly working with Wojciech Jaśkowski on model-based reinforcement learning.
-
-I moved my first steps in machine learning research by experimenting with computer vision applications at the [University of Catania](https://www.unict.it/), supported by [Giovanni Maria Farinella](https://www.dmi.unict.it/farinella/) and [Concetto Spampinato](http://www.perceivelab.com) in my hometown in [Sicily](https://en.wikipedia.org/wiki/Sicily).
+I obtained my MSc at [Politecnico di Milano](https://www.polimi.it/) and my BSc at the [University of Catania](https://www.unict.it/) in my hometown in [Sicily](https://en.wikipedia.org/wiki/Sicily).
+I have also spent some time as an intern at [NNAISENSE](https://nnaisense.com/) in Lugano.
 
 <br>
 ![Etna](/assets/images/etna.jpg){:class="img-responsive"}

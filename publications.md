@@ -30,6 +30,29 @@ You can also find me on [Google Scholar](https://scholar.google.it/citations?use
 ## Conference and Journal Papers
 
 <div class="rounded-box">
+    <strong><a href="https://arxiv.org/abs/2310.00166" target="_blank">Motif: Intrinsic Motivation from Artificial Intelligence Feedback</a></strong><br>
+    Martin Klissarov*, Pierluca D’Oro*, Shagun Sodhani, Roberta Raileanu, Pierre-Luc Bacon, Pascal Vincent, Amy Zhang, Mikael Henaff <br>
+    2023. <br>
+    <em>International Conference on Learning Representations</em>, 2024. <br>
+  <details>
+    <summary> <b> Behind the scenes </b> </summary>
+    <p> <i> At the beginning of summer 2023, a wave of research works applied Large Language Models to sequential decision-making. This caused both excitement and confusion in me, about which I wrote about in a <a href="https://www.scienceofaiagents.com/p/to-keep-doing-rl-research-stop-calling" target="_blank">blog post</a> that was pivotal for me. Seriously, I wanted to know whether there was something really interesting behind the hype. When Martin joined Meta as an intern, during many days of intense brainstorming, we enumerated the possible ways to use LLMs for decision-making. I got pretty convinced that extracting a reward function from them was the most promising of all. In that particularly long, rainy and confusing summer in Montreal, we pushed ourselves out of our comfort zone and witnessed the potential of LLMs for creating AI agents.  </i> </p>
+  </details>
+</div>
+
+<div class="rounded-box">
+    <strong><a href="https://openreview.net/forum?id=M3QXCOTTk4" target="_blank">The Curse of Diversity in Ensemble-Based Exploration</a></strong><br>
+    Zhixuan Lin, Pierluca D'Oro, Evgenii Nikishin, Aaron Courville  <br>
+    2023. <br>
+    <em>International Conference on Learning Representations</em>, 2024. <br>
+  <details>
+    <summary> <b> Behind the scenes </b> </summary>
+    <p> <i> Zhixuan was initially curious to explore the interaction between the resetting mechanisms we have been leveraging in our previous work and ensembling methods for deep reinforcement learning. In the end, in a piece of work on the empirical science of neural networks for reinforcement learning, we discovered surprising phenomena about the interaction among ensembles, data collection and representation learning. </i> </p>
+  </details>
+</div>
+
+
+<div class="rounded-box">
   <strong><a href="https://arxiv.org/abs/2309.14597" target="_blank">Policy Optimization in a Noisy Neighborhood: On Return Landscapes in Continuous Control</a></strong><br>
   Nate Rahn*, Pierluca D'Oro*, Harley Wiltzer, Pierre-Luc Bacon, Marc G. Bellemare <br>
   <em>Conference on Neural Information Processing Systems</em>, 2023. <br>
@@ -111,16 +134,6 @@ You can also find me on [Google Scholar](https://scholar.google.it/citations?use
   </details>
 </div>
 
-## Preprints
-<div class="rounded-box">
-    <strong><a href="https://arxiv.org/abs/2310.00166" target="_blank">Motif: Intrinsic Motivation from Artificial Intelligence Feedback</a></strong><br>
-    Martin Klissarov*, Pierluca D’Oro*, Shagun Sodhani, Roberta Raileanu, Pierre-Luc Bacon, Pascal Vincent, Amy Zhang, Mikael Henaff <br>
-    2023. <br>
-  <details>
-    <summary> <b> Behind the scenes </b> </summary>
-    <p> <i> At the beginning of summer 2023, a wave of research works applied Large Language Models to sequential decision-making. This caused both excitement and confusion in me, about which I wrote about in a <a href="https://www.scienceofaiagents.com/p/to-keep-doing-rl-research-stop-calling" target="_blank">blog post</a> that was pivotal for me. Seriously, I wanted to know whether there was something really interesting behind the hype. When Martin joined Meta as an intern, during many days of intense brainstorming, we enumerated the possible ways to use LLMs for decision-making. I got pretty convinced that extracting a reward function from them was the most promising of all. In that particularly long, rainy and confusing summer in Montreal, we pushed ourselves out of our comfort zone and witnessed the potential of LLMs for creating AI agents.  </i> </p>
-  </details>
-</div>
 
 ## Workshop Papers
 
